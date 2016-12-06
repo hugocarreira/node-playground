@@ -1,5 +1,5 @@
 # learning-node
 
-Apenas repositório para manter todos meus experimentos de aprendizado de NodeJS.
+Apenas um repositório para manter todos meus experimentos durante o aprendizado de NodeJS.
 
 *Caso queira indicar conteúdo/algo, sintam-se à vontade ;)*
