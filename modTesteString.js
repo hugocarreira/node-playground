@@ -1,4 +1,4 @@
 module.exports = function() {
-  var msg = "Teste de modulo apenas com uma string";
+  var msg = "Hello NodeJS usando Modulo";
   return msg;
 }
