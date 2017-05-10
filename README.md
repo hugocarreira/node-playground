@@ -1,4 +1,4 @@
-# learning-node
+# node-playgroud
 
 Apenas um repositório para manter todos meus experimentos durante o aprendizado de NodeJS.
 
